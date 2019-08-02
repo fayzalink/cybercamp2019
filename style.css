@@ -1,0 +1,28 @@
+body {
+    background-color:darkturquoise
+}
+
+h1 {
+    color: blue;
+}
+h2 {
+    color:purple;
+}
+h3{
+    color:red;
+}
+h4{
+    color:silver;
+}
+h5{
+    color:black;
+}
+h6{
+    color:yellow;
+}
+a {
+    color:green
+}
+    input{
+        margin:10px;
+    }
